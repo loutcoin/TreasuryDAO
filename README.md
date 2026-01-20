@@ -67,12 +67,12 @@ This project was developed for educational purposes. It's been refined into a cl
 
 ## Testing
 **Foundry test suite validates**:
-    1. Governance restrictions
-    2. Whitelisted add and remove behavior
-    3. ETH funding
-    4. Withdrawal logic
-    5. Reverts for unauthorized or invalid actions
-    6. Correct simulation of Timelock execution
+-   1. Governance restrictions
+-   2. Whitelisted add and remove behavior
+-   3. ETH funding
+-   4. Withdrawal logic
+-   5. Reverts for unauthorized or invalid actions
+-   6. Correct simulation of Timelock execution
 
 
 
